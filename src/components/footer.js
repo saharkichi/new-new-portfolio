@@ -3,8 +3,8 @@ import React from 'react';
 
 function footer() {
     return (
-        <section alt="GitHub" href="https://github.com/saharkichi" img="./components/assets/download.png"> </section>
-// <div href="https://www.linkedin.com/in/sahar-kichi-414077240/" img="./components/assets/download-1.png" alt="LinkedIn"> </a> </div>
+        <section alt="GitHub" href="https://github.com/saharkichi" img="./assets/download.png"> </section>
+// <div href="https://www.linkedin.com/in/sahar-kichi-414077240/" img="./assets/download-1.png" alt="LinkedIn"> </a> </div>
 // need third platform 
     )
 }
