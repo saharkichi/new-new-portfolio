@@ -4,7 +4,7 @@ import navbar from './navbar';
 
 function header() {
     return (
-        <navbar/>
+        {navbar}
     )
 }
 
