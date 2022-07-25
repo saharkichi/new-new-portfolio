@@ -8,6 +8,7 @@ import homepage from "./components/homepage";
 import navbar from "./components/navbar";
 import portfolio from "./components/portfolio";
 import projects from "./components/projects";
+import resume from "./components/resume";
 
 function App() {
   
