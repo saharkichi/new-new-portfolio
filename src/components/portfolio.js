@@ -4,9 +4,10 @@ import React from 'react';
 function Portfolio() {
     return (
     <div>
-        <p>
-            filler filler filler 
-        </p>
+        <h1>Portfolio</h1>
+            <p>
+                
+            </p>
     </div>
     )
 }

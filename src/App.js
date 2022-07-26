@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import Aboutme from "./components/aboutme";
-import Contact from "./components/contact";
-import Footer from "./components/footer";
-import Header from "./components/header";
-import Homepage from "./components/homepage";
-import Navbar from "./components/navbar";
-import Portfolio from "./components/portfolio";
-import Resume from "./components/resume";
+import Aboutme from "./components/Aboutme";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import Homepage from "./components/Homepage";
+import Navbar from "./components/Navbar";
+import Portfolio from "./components/Portfolio";
+import Resume from "./components/Resume";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 
 function App() {
@@ -15,17 +15,13 @@ function App() {
         <div className="App">
             <BrowserRouter>
                 <Routes>
-                    <Route path="/Home" element={<Homepage/>}/>
-                    <Route path="/Contact" element={<Contact/>}/>
-                    <Route path="/Portfolio" element={<Portfolio/>}/>
-                    <Route path="/" element={<Homepage/>}/>
+                    <Route path='/' element={<Homepage/>}/>
                 </Routes>
                 
             </BrowserRouter>
-            <Footer/>
          </div>
-    )
+    );
 }
 
-export default App;
+export default App
 
