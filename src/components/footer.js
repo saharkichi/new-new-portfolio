@@ -4,9 +4,8 @@ import React from 'react';
 function Footer() {
     return (
         <div>
-            <section alt="GitHub" href="https://github.com/saharkichi" img="./assets/download.png"> </section>
-            <div href="https://www.linkedin.com/in/sahar-kichi-414077240/" img="./assets/download-1.png" alt="LinkedIn"> <a></a> </div>
-
+            <a alt="GitHub" href="https://github.com/saharkichi" img="./assets/download.png"> </a>
+            <a href="https://www.linkedin.com/in/sahar-kichi-414077240/" img="./assets/download-1.png" alt="LinkedIn"> </a> 
         </div >
     )
 }
