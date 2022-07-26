@@ -7,11 +7,11 @@ import Resume from './Resume';
 
 function Navbar() {
     return (
-        <div class="Navbar">
-            <a href="./Aboutme">About Me</a>
-            <a href="./Portfolio">Portfolio</a>
-            <a href="./Contact">Contact Me</a>
-            <a href="./Resume">Resume</a>
+        <div class="navbar">
+            <a href="./Aboutme">About Me &nbsp; &nbsp;</a>
+            <a href="./Portfolio">Portfolio &nbsp; &nbsp;</a>
+            <a href="./Contact">Contact Me &nbsp; &nbsp;</a>
+            <a href="./Resume">Resume &nbsp; &nbsp;</a>
         </div>
     )
 }
