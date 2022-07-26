@@ -1,17 +1,19 @@
 import React from 'react';
 import './App.css';
-import aboutme from "./components/aboutme";
-import contact from "./components/contact";
-import footer from "./components/footer";
-import header from "./components/header";
-import homepage from "./components/homepage";
-import navbar from "./components/navbar";
-import portfolio from "./components/portfolio";
-import projects from "./components/projects";
-import resume from "./components/resume";
+import Aboutme from "./components/aboutme";
+import Contact from "./components/contact";
+import Footer from "./components/footer";
+import Header from "./components/header";
+import Homepage from "./components/homepage";
+import Navbar from "./components/navbar";
+import Portfolio from "./components/portfolio";
+import Projects from "./components/projects";
+import Resume from "./components/resume";
 
 function App() {
-  
+    return (
+        <Homepage />
+    )
 }
 
 export default App;

@@ -2,7 +2,7 @@
 import React from 'react';
 import "./components.css";
 
-function contact() {
+function Contact() {
     return (
         <div>
             <h1> Contact Me!</h1>
@@ -22,4 +22,4 @@ function contact() {
     )
 }
 
-export default contact
+export default Contact
