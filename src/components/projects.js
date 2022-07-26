@@ -1,1 +1,0 @@
-// verify if i need this or just the portfolio.js
