@@ -7,13 +7,12 @@
 .navbar {
     text-align: right;
     margin-top: -100px;
-    padding: 0px;
     font-size: 25px;
     font-family: cursive;
 }
 
 .header {
     justify-content: left;
-    font-size: 25px;
+    font-size: 30px;
     font-family: cursive;
 }

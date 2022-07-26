@@ -7,7 +7,7 @@ function Footer() {
             <a href="https://github.com/saharkichi" img="./assets/download.png" alt="GitHub"> </a>
             <a href="https://www.linkedin.com/in/sahar-kichi-414077240/" img="./assets/download-1.png" alt="LinkedIn"> </a> 
             <a href="https://open.spotify.com/user/saharkichi" img="./assets/spotify-logo.png" alt="Spotify"> </a>
-        </div >
+        </div>
     )
 }
 

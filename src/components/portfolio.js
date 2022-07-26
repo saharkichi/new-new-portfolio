@@ -6,7 +6,7 @@ function Portfolio() {
     <div>
         <h1>Portfolio</h1>
             <p>
-                
+                filler filler filler
             </p>
     </div>
     )

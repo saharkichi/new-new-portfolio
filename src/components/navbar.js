@@ -7,7 +7,7 @@ import Resume from './Resume';
 
 function Navbar() {
     return (
-        <div class="navbar">
+        <div className="navbar">
             <a href="./Aboutme">About Me &nbsp; &nbsp;</a>
             <a href="./Portfolio">Portfolio &nbsp; &nbsp;</a>
             <a href="./Contact">Contact Me &nbsp; &nbsp;</a>
