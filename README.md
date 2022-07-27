@@ -10,6 +10,5 @@ The main idea behind this application was to prepare a portfolio including vario
 
 # Screenshots
 
-![Screen Shot 2022-07-27 at 5 21 15 PM (2)](https://user-images.githubusercontent.com/105219789/181374672-9eb4fe4e-0318-405f-b703-f7e1dc5294a2.png)
-
-![Screen Shot 2022-07-27 at 5 21 08 PM (2)](https://user-images.githubusercontent.com/105219789/181374682-d4a6bff7-3b44-4938-bf55-8898ec312228.png)
+![Screen Shot 2022-07-27 at 5 21 15 PM (2)](https://user-images.githubusercontent.com/105219789/181374933-969d4d0e-1a5d-43a5-95fa-a9ed68631bde.png)
+![Screen Shot 2022-07-27 at 5 21 08 PM (2)](https://user-images.githubusercontent.com/105219789/181375015-5bb9dd6e-eadb-4e40-a7e3-ec25dcc20abb.png)
