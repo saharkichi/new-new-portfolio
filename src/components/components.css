@@ -23,7 +23,7 @@
     background-color: RoyalBlue;
 }
 
-.project1 {
+.project1, .project2, .jate, .MVC, .weather, .pg {
     height: 40%;
     width: 40%;
 }
