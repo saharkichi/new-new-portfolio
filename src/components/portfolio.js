@@ -5,10 +5,18 @@ const Proj1img = require("./assets/Screenshot3.png");
 
 function Portfolio() {
     return (
-    <div id="Portfolio">
-        <h1>Portfolio</h1>
-        <a href="https://saharkichi.github.io/mood-matcher/"> <img className="project1" src={Proj1img} alt="MoodMatcher"></img> </a>
-    </div>
+        <div id="Portfolio">
+            <h1>Project 1: MoodMatcher</h1>
+            <div>
+                <a href="https://saharkichi.github.io/mood-matcher/"> <img className="project1" src={Proj1img} alt="MoodMatcher"></img> </a>
+                <a href="https://github.com/saharkichi/mood-matcher"> Repository </a>
+                <a href="https://saharkichi.github.io/mood-matcher/"> Deployed App</a>
+            </div>
+            <div>
+                <h1>Project 2: PlantOverflow</h1>
+                
+            </div>
+        </div>
     )
 }
 
