@@ -45,8 +45,8 @@ return (
                     <label htmlFor="email">Email address:</label>
                 <input
                 type="email"
-name="email"
-defaultValue={email}
+                name="email"
+                defaultValue={email}
                 onBlur={handleChange}/>
             </div>
                 <div>
@@ -62,7 +62,7 @@ defaultValue={email}
                 <p className="error-text">{errorMessage}</p>
             </div>
 )
-}
+} 
         <button type="submit">Submit</button>
     </form>
 

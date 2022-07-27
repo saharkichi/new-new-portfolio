@@ -22,3 +22,8 @@
 .btn:hover {
     background-color: RoyalBlue;
 }
+
+.project1 {
+    height: 40%;
+    width: 40%;
+}
