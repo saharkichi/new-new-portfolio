@@ -3,18 +3,14 @@ import React from 'react';
 
 function Contact() {
     return (
-        <div>
+        <div id="Contact">
             <h1> Contact Me!</h1>
             <p>
                 <form>
                     <input type="text" placeholder="Enter name" />
-                    <br>
-                        <input type="email" placeholder="Enter your email" />
-                    </br>
-                        <textarea cols="60" rows="30" placeholder="Leave a message"></textarea>
-                    <br>
-                        <button type="submit"></button>
-                    </br>
+                    <input type="email" placeholder="Enter your email" />
+                    <textarea cols="60" rows="30" placeholder="Leave a message"></textarea>
+                    <button type="submit"></button>
                 </form>
             </p>
         </div>     

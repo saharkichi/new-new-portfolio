@@ -2,6 +2,10 @@
 import React from 'react';
 import Header from './Header';
 import Navbar from './Navbar';
+import Aboutme from './Aboutme';
+import Contact from './Contact';
+import Resume from './Resume';
+import Portfolio from './Portfolio';
 import Footer from './Footer';
 
 function Homepage() {
@@ -9,6 +13,10 @@ function Homepage() {
         <div>
             <Header />
             <Navbar />
+            <Aboutme />
+            <Contact />
+            <Resume />
+            <Portfolio />
             <Footer />
         </div>
     )
