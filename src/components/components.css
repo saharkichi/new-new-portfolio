@@ -1,0 +1,24 @@
+.navbar {
+    text-align: right;
+    margin-top: -50px;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+#github, #linkedin, #spotify {
+    height: 2%;
+    width: 2%;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+  
+.btn:hover {
+    background-color: RoyalBlue;
+}
